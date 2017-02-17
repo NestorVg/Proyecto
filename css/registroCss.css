@@ -1,0 +1,13 @@
+body {
+    background-color: #43937c
+}
+
+#container {
+    margin:15px;
+}
+
+.logo{
+    width:10%;
+    margin-left:45%;
+    margin-top: 15px;
+}
